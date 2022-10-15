@@ -1,0 +1,92 @@
+Requirements
+
+Module 1:   Login interface
+	
+	1.1 Login 
+		Username 
+		password
+		Login Button
+		Forgot password Button
+			Forgot password interface (Email add. textbox)
+				Text box - "Email / Phn number" given as username
+
+	1.2 Sign Up
+		Username
+		Password 
+		Confirm password
+		Sign Up Button
+		Sign up with Google or Facebook option
+In the login interface login and signup option is shown . Username can be Email or phone number  with  a password. we can also sign up using google and facebook.
+
+Module 2 : Profile 
+	
+	Username
+	Driver or Traveller
+	Email address
+	Phone number
+	Change password option
+	Location Enabling option
+
+	 2.1  Driver option (If driver iption is given)
+		Vehicle type
+		Vehicle number
+		Vehicle details
+Profile is the details of user . Here we can give which kind of user we are , whether we are traveller or Driver
+	
+Module 3 : Booking Interface
+
+	Type : Ride , Rental , Intercity
+	Where to Location option
+	Choose destination from saved places
+	Pick up destination from map
+	Time : Now/Specific time 
+Booking interface ask for the destination places and time we need the cab.	
+ 
+Module 4 : Map route Interface
+	 
+	Displays the Shortest route on map
+	Type of vehicle needed : Autorickshaw ,  Car , Sedan 
+After completing the booking details route map and type of vehicle is shown.
+
+Module 5 : CAB Confirmation Interface
+
+	Flight charge display 
+	Distance is calculated and shown
+	Detailed bill
+	Estimated time to reach is shown
+	Confirm option
+Now we have all the details about travelling fare, distance and estimated time to reach is shown.
+	
+Module 6 : Travel interface
+Traveller side
+	Distance and time of vehicle arrival display
+	Route map display
+	OTP Generated (Given as a key to connect both traveller and Driver)
+	Flight charge display
+	Driver details display
+	Cancel option
+
+After confirming the Cab , an OTP is generated. Route map will be shown . driver details are also shown to the traveller. When Driver reaches Traveller can give the otp to the driver.
+
+Driver side 
+	Destination route map shown
+	Point at which traveller stands shown
+	Total fare displayed
+	Phone number of traveller and details displayed
+	OTP entering textbox
+OTP is entered on to the space for confirmation.
+
+	
+
+Module 7 Payment interface
+
+	Offline payment
+	Payment wallet App : QR Code, UPI payment...
+	Final payment bill document(After payment) 
+After the travel ends payment can be done through Online or offline payment.
+
+Module 8 Feedback Interface (For traveller)
+	Option to give 1-5 stars
+	Text box to add additional comments
+	submit button and skip survey button 
+Feedback is taken as a regular practice. This increases the data and hence helps in the improvement of the CAB service management app.

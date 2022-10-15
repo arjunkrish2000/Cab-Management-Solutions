@@ -1,0 +1,25 @@
+Scope / Out of scope - SRS
+
+Scope
+-> Driver and Traveller option Provided in profile for each user
+-> CABs with least distance from booking point is provided
+-> Ride or rental option is provided (Switch rider option is also provided)
+-> Available in all smartphone with GPS and Internet facility
+-> Automatically route from booking point to destination is provided
+-> Payment methods are provided : offline payment / Payment through apps
+-> Schedule the travel
+-> OTP provided to ensure if the same CAB is presented
+-> After confirming the travel details of driver is send to traveller and vice verse
+-> Aesthetics of UI can be changed accoding to clients need
+-> Login option and Signup option is there 
+-> both phone number and email address can be used as User ID
+
+Out of Scope
+-> No specific edition or model car option is provided in app.
+-> Long distance / Intercity travel Flight charge cant be shown (Eg. Kochi to delhi)
+-> User cannot select specific route to travel.
+
+
+
+
+
